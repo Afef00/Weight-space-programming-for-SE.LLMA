@@ -12,25 +12,12 @@ Eight Swedish development prompts identify repeated 3-token sequences. For each 
 
 ## Results
 
-| Condition | Swedish Adherence (↑) | Code-Switch Rate (↓) | Loop Rate (↓) | Distinct 4-gram (↑) | Regression Keyword Acc (↑) |English/Math Acc (↑)|
-| :--- | :---: | :---: | :---: | :---: | :---: |:---:|
-| baseline | 0.90    | 20% (2/10)|    40% (4/10)|    0.76    |100% (10/10)|    100% (5/5)|
-| prompt_control | 1.00|    0% (0/10)    |20% (2/10)    |0.78    |60% (6/10)    |100% (5/5)|
-| activation_steering | 0.87|    10% (1/10)    |30% (3/10)    |0.75    |80% (8/10)    |100% (5/5)|
-| random_weight_edit | 0.90|    10% (1/10)    |40% (4/10)    |0.71    |100% (10/10)|    100% (5/5)|
-| targeted_weight_edit | 0.90|    10% (1/10)    |40% (4/10)    |0.76    |90% (9/10)    |100% (5/5)|
-
-
-
-
 | Condition | Swedish repeated 3-grams (↓) |  Swedish Distinct-2 (↑)| 
 | :--- | :---: | :---: | 
 | Baseline | 6.30%     | 0.8915|    
 | Targeted weight edit  | 6.52% |   0.8915    |
 | Random weight edit | 6.52%|    0.8915  |
 | Repetition penalty | 1.09%|    0.9809   |
-
-
 
 English results:
 
