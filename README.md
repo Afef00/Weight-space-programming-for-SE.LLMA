@@ -16,14 +16,6 @@
 6. Evaluate on a separate Swedish and English set. Record all generations and metrics.
 
 
-## Model and licensing
-
-Default checkpoint: `Qwen/Qwen2.5-0.5B-Instruct` (multilingual, including Swedish; Apache-2.0 model license according to its model card).
-
-GPT-SW3 is a multilingual decoder-only model developed by AI Sweden with Swedish, Norwegian, Danish, Icelandic, English and code in its training mix. The model card describes a modified RAIL license. Review the current model card and license before use or redistribution. This repository does not include or redistribute model weights.
-
-Model page: https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct
-
 ## CPU setup
 
 Python 3.10 or 3.11 
