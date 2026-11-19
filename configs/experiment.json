@@ -1,0 +1,11 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "revision": "main",
+  "device": "cpu",
+  "seed": 17,
+  "max_new_tokens": 80,
+  "alpha": 1.5,
+  "repetition_penalty": 1.15,
+  "ngram_size": 3,
+  "min_repeated_occurrences": 2
+}

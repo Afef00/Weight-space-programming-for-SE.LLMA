@@ -1,0 +1,77 @@
+[
+  {
+    "id": "eval_sv_01",
+    "language": "sv",
+    "prompt": "Förklara varför biologisk mångfald är viktig för ett fungerande ekosystem."
+  },
+  {
+    "id": "eval_sv_02",
+    "language": "sv",
+    "prompt": "Beskriv hur digital teknik kan förbättra sjukvården och vilka risker som behöver hanteras."
+  },
+  {
+    "id": "eval_sv_03",
+    "language": "sv",
+    "prompt": "Skriv en kort text om hur svenska kommuner kan minska matsvinn."
+  },
+  {
+    "id": "eval_sv_04",
+    "language": "sv",
+    "prompt": "Förklara skillnaden mellan väder och klimat med ett konkret exempel."
+  },
+  {
+    "id": "eval_sv_05",
+    "language": "sv",
+    "prompt": "Beskriv tre sätt som skolor kan främja elevers läslust."
+  },
+  {
+    "id": "eval_sv_06",
+    "language": "sv",
+    "prompt": "Resonera om fördelar och nackdelar med vindkraft i Sverige."
+  },
+  {
+    "id": "eval_sv_07",
+    "language": "sv",
+    "prompt": "Förklara hur källkritik fungerar när man läser nyheter på internet."
+  },
+  {
+    "id": "eval_sv_08",
+    "language": "sv",
+    "prompt": "Skriv en kort beskrivning av hur vatten renas innan det når våra kranar."
+  },
+  {
+    "id": "eval_sv_09",
+    "language": "sv",
+    "prompt": "Beskriv varför fysisk aktivitet är viktig för människors välbefinnande."
+  },
+  {
+    "id": "eval_sv_10",
+    "language": "sv",
+    "prompt": "Förklara hur återvinning av elektronik kan minska miljöpåverkan."
+  },
+  {
+    "id": "eval_en_01",
+    "language": "en",
+    "prompt": "Explain why biodiversity matters for healthy ecosystems."
+  },
+  {
+    "id": "eval_en_02",
+    "language": "en",
+    "prompt": "Describe three practical ways a city can reduce food waste."
+  },
+  {
+    "id": "eval_en_03",
+    "language": "en",
+    "prompt": "Explain the difference between weather and climate using an example."
+  },
+  {
+    "id": "eval_en_04",
+    "language": "en",
+    "prompt": "Discuss benefits and risks of using digital technology in healthcare."
+  },
+  {
+    "id": "eval_en_05",
+    "language": "en",
+    "prompt": "Describe how recycling electronic devices can reduce environmental harm."
+  }
+]

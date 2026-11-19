@@ -1,0 +1,42 @@
+[
+  {
+    "id": "dev_sv_01",
+    "language": "sv",
+    "prompt": "Skriv en kort förklarande text om varför träd är viktiga i svenska städer."
+  },
+  {
+    "id": "dev_sv_02",
+    "language": "sv",
+    "prompt": "Berätta hur en vanlig svensk familj kan spara energi hemma under vintern."
+  },
+  {
+    "id": "dev_sv_03",
+    "language": "sv",
+    "prompt": "Förklara vad allemansrätten innebär för personer som vill vandra i naturen."
+  },
+  {
+    "id": "dev_sv_04",
+    "language": "sv",
+    "prompt": "Beskriv hur kollektivtrafiken kan bidra till en mer hållbar stad."
+  },
+  {
+    "id": "dev_sv_05",
+    "language": "sv",
+    "prompt": "Skriv om några fördelar och nackdelar med distansarbete."
+  },
+  {
+    "id": "dev_sv_06",
+    "language": "sv",
+    "prompt": "Förklara på ett enkelt sätt hur internet fungerar."
+  },
+  {
+    "id": "dev_sv_07",
+    "language": "sv",
+    "prompt": "Beskriv hur ett bibliotek kan bidra till ett lokalsamhälle."
+  },
+  {
+    "id": "dev_sv_08",
+    "language": "sv",
+    "prompt": "Skriv en kort text om betydelsen av att lära sig främmande språk."
+  }
+]
