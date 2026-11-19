@@ -7,4 +7,4 @@
   
 **Author:** 
 - Proposed the hypothesis and experimental design.
-- Model execution,final interpretation, recommendation
+- Model execution, final interpretation, recommendation.
